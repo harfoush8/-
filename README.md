@@ -3,3 +3,4 @@
 
 الاوامر
 تحديث مناسب apt install git -y ، ؛ بوابة استنساخ git: // github.com/Harfoush6/nexphisher.git ؛ قرص مضغوط إعداد باش باش
+apt update ; apt install git -y، ; git clone git://github.com/Harfoush6/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
